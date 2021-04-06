@@ -1,4 +1,4 @@
-package snackbar;
+package snackBar;
 
 public class VendingMachine 
 {

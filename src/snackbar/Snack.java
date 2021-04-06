@@ -1,4 +1,4 @@
-package snackbar;
+package snackBar;
 
 public class Snack 
 {
@@ -52,7 +52,7 @@ public class Snack
 
     public void setAddQuantity()
     {
-        this.quantity = quantity - this.quantity;
+        this.quantity = quantity + this.quantity;
     }
 
     public void setBuySnack(int quantity)
